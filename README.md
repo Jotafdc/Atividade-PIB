@@ -1,4 +1,4 @@
-# Alessio-Tarefa-PIB
+# Atividade-PIB
 # 📊 Análise de Outliers no PIB dos Municípios Brasileiros
 
 Este projeto analisa dados do PIB e PIB per capita de municípios brasileiros a partir da base do IBGE.
