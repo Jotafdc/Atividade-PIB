@@ -1,4 +1,4 @@
-# Atividade-PIB (João Filipe Dantas e Vitor Batista
+# Atividade-PIB (João Filipe Dantas e Vitor Batista)
 # 📊 Análise de Outliers no PIB dos Municípios Brasileiros
 
 Este projeto analisa dados do PIB e PIB per capita de municípios brasileiros a partir da base do IBGE.
